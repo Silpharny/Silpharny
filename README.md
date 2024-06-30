@@ -17,11 +17,11 @@
 
 - 💻 Atuo como **freelancer** em tempo integral, desenvolvendo sites e sistemas web.
 
-## ⚽️ Minha Jornada
+## 📝 Minha Jornada
 
 - Desde a infância até a fase adulta, conciliei minha paixão por **futebol** e **tecnologia**.
 - 🏅 Fui jogador profissional de futebol, o que me permitiu conhecer o mundo.
-- 🔥 Mesmo durante minha carreira como atleta, sempre mantive acesa a chama da tecnologia.
+- 🔥 Mesmo durante1 minha carreira como atleta, sempre mantive acesa a chama da tecnologia.
 - 🚀 Em 2021, decidi abrir mão da carreira como atleta para me dedicar inteiramente à tecnologia.
 - 💖 Me apaixonei ainda mais pelo desenvolvimento de software e não olhei para trás desde então.
 
