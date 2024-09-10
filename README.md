@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Silpharny Miranda!
+# 👋 Olá, eu sou o Sil Miranda!
 
 - 🎂 Tenho 25 anos e sou um **desenvolvedor front-end & mobile** apaixonado por tecnologia.
 - 🌟 Minhas habilidades incluem **webdesign**, **desenvolvimento web** e uso de plataformas como **Shopify** e **WordPress** para criar e-commerces, sites, blogs e landing pages.
